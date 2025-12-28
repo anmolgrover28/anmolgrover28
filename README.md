@@ -44,23 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 💬 Chatty — Real-Time Chat Application
@@ -85,6 +68,13 @@
 
 ---
 
+### 🩺 Women Health Period Tracking Website (Hackathon)
+- Period tracking & health insights
+- Informational modules for women health
+- **Tech:** MERN Stack
+
+---
+
 ## 🏆 Leadership & Experience
 - 👥 Discipline Head — Bits N Bytes Club
 - 🎤 Strong communication & public speaking skills
@@ -95,7 +85,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anmolkumar28/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:anmolgrover2828@gmail.com)
 
 </div>
